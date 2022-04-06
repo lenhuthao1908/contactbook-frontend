@@ -25,3 +25,4 @@ v-for="(contact, index) in contacts"
 </li>
 </ul>
 </template>
+
